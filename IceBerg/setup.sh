@@ -34,7 +34,8 @@ create_default_configs() {
     "countdown": 300,
     "country_time": "en-US",
     "delayEachAccount": [1, 81],
-    "doTasks": true
+    "doTasks": true,
+    "howManyTicketsYouWantToBuy": 1
 }
 EOL
 }
