@@ -42,13 +42,14 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 
 ```json
 {
-    "limit": 100,
-    "countdown": 300,
-    "country_time": "en-US",
-    "delayEachAccount": [1, 81],
-    "doTasks": true,
-    "howManyTicketsYouWantToBuy": 1
+  "limit": 100,
+  "countdown": 300,
+  "country_time": "en-US",
+  "delayEachAccount": [1, 1],
+  "doTasks": true,
+  "watchAds": false
 }
+
 
 ```
 
